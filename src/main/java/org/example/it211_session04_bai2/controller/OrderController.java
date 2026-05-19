@@ -1,4 +1,4 @@
-package org.example.it211_session04_bai2.model;
+package org.example.it211_session04_bai2.controller;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.UUID;
